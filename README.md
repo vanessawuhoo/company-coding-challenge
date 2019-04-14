@@ -1,6 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Background image courtesy of Stas Pimenov's "White Waves" from www.toptal.com
+
+## Setting Up
+
+1.  `npm install`
+2.  `npm start`
+3.   App is running at http://localhost:3000
+
 ## Available Scripts
 
 In the project directory, you can run:
